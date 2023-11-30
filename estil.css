@@ -80,10 +80,7 @@ footer {
     color: #fff;
     padding: 10px;
     text-align: center;
-    position: fixed;
     width: 100%;
-    bottom: 0;
-    left: 0;
     background: linear-gradient(to right, #004D98, #DB0030, #004D98);
     font-family: Glanz, Glanz-fallback;
 }
